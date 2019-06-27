@@ -1,6 +1,6 @@
 {
   "name": "cypressautomocker-contenttype-fix",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A set of extensions to cypress.io that allows automatic recording and playback of APIs",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/MarekJavurek/cypressautomocker/issues"
   },
-  "homepage": "https://github.com/MarekJavurek/cypressautomocker#readme"
+  "homepage": "https://github.com/MarekJavurek/cypressautomocker#readme",
+  "directories": {
+    "example": "example"
+  }
 }
